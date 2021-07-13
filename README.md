@@ -10,4 +10,4 @@
 Интерфейс приложения: раздел постов
 
 ***
-https://dictionary-db-717c4.web.app
+https://dictionaryç-db-717c4.web.app
